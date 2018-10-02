@@ -2,6 +2,7 @@ body {
   background-color: #333;
   color: #fff; }
 
+/*-------- Styling the navbar ----*/
 .navbar {
   border-bottom: 3px solid #008ed6; }
 
@@ -20,3 +21,11 @@ body {
     padding: 4px;
     font-size: 30px;
     border-radius: 5px; }
+
+/*----- Styling the explore section ----*/
+.explore-section-lower .fa {
+  background: #333;
+  padding: 4px;
+  color: #fff;
+  font-size: 30px;
+  border-radius: 5px; }

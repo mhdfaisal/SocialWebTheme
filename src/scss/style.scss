@@ -8,6 +8,7 @@ body{
     color:$font-color;
 }
 
+/*-------- Styling the navbar ----*/
 .navbar{
     border-bottom:3px solid $primary-color;
 }
@@ -28,6 +29,17 @@ body{
         color:$primary-color;
         background-color:$font-color;
         padding:4px;
+        font-size:$landing-icon-size;
+        border-radius:5px;
+    }
+}
+
+/*----- Styling the explore section ----*/
+.explore-section-lower{
+    .fa{
+        background:#333;
+        padding:4px;
+        color:$font-color;
         font-size:$landing-icon-size;
         border-radius:5px;
     }
