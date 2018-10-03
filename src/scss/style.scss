@@ -55,3 +55,14 @@ body{
         border-radius:5px;
     }
 }
+
+/*----- Stying the share section -------*/
+.share-section-lower{
+    .fa{
+        background-color:$bg-color;
+        color:#fff;
+        padding:4px;
+        border-radius:5px;
+        font-size:$landing-icon-size;
+    }
+}
