@@ -29,3 +29,11 @@ body {
   color: #fff;
   font-size: 30px;
   border-radius: 5px; }
+
+/*------- Styling the create section ----*/
+.create-section-lower .fa {
+  background: #fff;
+  padding: 4px;
+  color: #008ed6;
+  font-size: 30px;
+  border-radius: 5px; }
